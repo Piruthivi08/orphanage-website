@@ -1,0 +1,7 @@
+node_modules/
+build/
+dist/
+# orphanage-website/src/assets
+*.zip
+*.mp4
+*.mov
