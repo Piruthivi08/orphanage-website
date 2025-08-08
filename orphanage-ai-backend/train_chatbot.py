@@ -25,7 +25,19 @@ questions = [
     "what are visiting hours",
 
     # Farewell
-    "bye", "goodbye", "see you", "talk to you later"
+    "bye", "goodbye", "see you", "talk to you later",
+
+    "where is baby hope located",
+    "is baby hope in madurai",
+    "are you in madurai",
+    "location of baby hope",
+    "baby hope address",
+    "how do i reach baby hope",
+    "baby hope orphanage in tamil nadu",
+    "baby hope orphanage location",
+    "how to find baby hope",
+    "can i visit madurai to see baby hope"
+
 ]
 
 answers = [
@@ -74,7 +86,18 @@ answers = [
     "Bye-bye! Come back soon! 👋",
     "Goodbye! Sending hugs 🤗",
     "See you soon, friend! 💖",
-    "Talk to you later! 🌈"
+    "Talk to you later! 🌈",
+
+    "Baby Hope is located in beautiful Madurai, Tamil Nadu 🏡",
+    "Yes! Baby Hope is in Madurai, Tamil Nadu 📍",
+    "We're based in Madurai, full of smiles and sunshine 🌞",
+    "Our loving home is in Madurai, Tamil Nadu ❤️",
+    "Visit us at Sunshine Street, Madurai! 🗺️",
+    "Come visit us in Madurai, we’d love to meet you! 👶🏽",
+    "You’ll find Baby Hope in Madurai, a city of warmth 🌇",
+    "We’re in Madurai, Tamil Nadu – always happy to welcome you 💕",
+    "To reach us, just head to Sunshine Street, Madurai 📌",
+    "Yes! We are in Madurai. Feel free to plan a visit 🏠"
 ]
 
 # Vectorize text
