@@ -148,7 +148,7 @@ const HowToHelp = () => {
             </p>
             <div className="space-y-2">
               <p className="font-semibold text-pink-800">Bank Transfer:</p>
-              <p>Name: Malalai Illam</p>
+              <p>Name: Baby Hope</p>
               <p>Account No: 1234567890</p>
               <p>IFSC: ABCD0123456</p>
             </div>

@@ -4,7 +4,7 @@ export const testimonials = [
     name: "Priya Sharma",
     location: "Delhi, India",
     message:
-      "Adopting from Malalai Illam was the best decision of our lives. Our daughter brings us so much joy!",
+      "Adopting from Baby Hope was the best decision of our lives. Our daughter brings us so much joy!",
     image: c1,
   },
   {

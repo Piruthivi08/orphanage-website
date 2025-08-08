@@ -49,11 +49,11 @@ const ContactUs = () => {
           <div className="space-y-4 text-gray-700 text-base">
             <p className="flex items-center gap-3">
               <FaMapMarkerAlt className="text-pink-500" />
-              <span>Malalai Illam, Madurai, India</span>
+              <span>Baby Hope, Madurai, India</span>
             </p>
             <p className="flex items-center gap-3">
               <FaEnvelope className="text-pink-500" />
-              <span>contact@malalaiillam.org</span>
+              <span>contact@babyhope.org</span>
             </p>
             <p className="flex items-center gap-3">
               <FaPhoneAlt className="text-pink-500" />
